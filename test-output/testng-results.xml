@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="6983" started-at="2017-02-21T16:22:47Z" finished-at="2017-02-21T16:22:54Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="6983" started-at="2017-02-21T16:22:47Z" finished-at="2017-02-21T16:22:54Z">
+      <class name="TestCases.SearchEbay">
+        <test-method status="PASS" signature="testSearchLaptop()[pri:0, instance:TestCases.SearchEbay@4439f31e]" name="testSearchLaptop" duration-ms="6967" started-at="2017-02-21T11:22:47Z" finished-at="2017-02-21T11:22:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSearchLaptop -->
+      </class> <!-- TestCases.SearchEbay -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
